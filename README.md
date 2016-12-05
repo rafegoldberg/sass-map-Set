@@ -69,7 +69,7 @@ $ms-base: Ui(scale,base);
 $ms-ratio: Ui(scale,ratio);
 ```
 
-> **Note**: in both of the above examples the return value of the `Ui-add()` call was assigned to variable. Since the method returns the passed object, the refrence variable will be identical to the new config object. Since Sass only permits function calls from the right-hand side of a assignment variable or property assignment statement.
+> **Note**: Sass only permits function calls from the right-hand side of a assignment variable or property assignment statement. This is why you might've noticed that, in the above examples, the return value of the `Ui-add()` call is being assigned to variable. While the variable will be identical to your new config, you should stick with the actual `Ds()` method for getting values.
 
 #### Retrieving Config Values
 

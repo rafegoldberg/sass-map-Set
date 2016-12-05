@@ -3,6 +3,10 @@ UI Sass Utils
 
 This library provides a simple, consistent interface for getting and setting configuration objects across a Sass project.
 
+---
+
+
+
 ### How To
 
 #### Install
@@ -27,7 +31,7 @@ Since you want to be able to access the config in your other partials, you'll pr
 
 > **Note**: figuring out the relative path to your Bower components can be a bit trickier than the above example suggests. But since it really depends on the build tools and Sass workflow you've chosen, I'll leave it to you to figure out.
 
----
+
 
 ### Usage
 
@@ -61,7 +65,7 @@ To get a config object or a sub-value, use the `Ui()` function:
 }
 ```
 
----
+
 
 ### Roadmap
 

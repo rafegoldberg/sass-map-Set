@@ -1,0 +1,23 @@
+{
+  "name": "ui.sass.util",
+  "homepage": "https://github.com/rafegoldberg/sass-map-Set",
+  "authors": [
+    "Rafe Goldberg <rafegoldberg@gmail.com>"
+  ],
+  "description": "deep set @fn implementation for Sass maps",
+  "main": "_import.scss",
+  "keywords": [
+    "sass",
+    "map",
+    "set",
+    "deep"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ] 
+}

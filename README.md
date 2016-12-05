@@ -7,7 +7,7 @@ This library provides a simple, consistent interface for getting and setting con
 
 
 
-### How To
+### Setup
 
 #### Install
 
@@ -69,7 +69,7 @@ $ms-base: Ui(scale,base);
 $ms-ratio: Ui(scale,ratio);
 ```
 
-> **Note**: Sass only permits function calls from the right-hand side of a assignment variable or property assignment statement. This is why you might've noticed that, in the above examples, the return value of the `Ui-add()` call is being assigned to variable. While the variable will be identical to your new config, you should stick with the actual `Ds()` method for getting values.
+> **Note**: You might've noticed that we're assigning the return value of the `Ui-add()` call to variable. This is because Sass only permits function calls from the right-hand side of an assignment statement. Though the variable will be identical to the passed map, you should always use the `Ds()` method– rather than the refrence variable –to access config values.
 
 #### Retrieving Config Values
 

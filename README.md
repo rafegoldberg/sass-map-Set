@@ -86,4 +86,4 @@ To get a config object or a sub-value, use the `Ui()` function:
 
 ### Roadmap
 
-- [x] rename this repository to `ui-sass-utils`
+- [x] rename this repository to `ui.sass.utils`

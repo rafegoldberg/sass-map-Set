@@ -3,9 +3,9 @@ UI Sass Utils
 
 This library provides a simple, consistent interface for getting and setting configuration objects across a Sass project.
 
-## How To
+### How To
 
-### Install
+#### Install
 
 This repo is designed to be consumed as a [Bower](https://bower.io/#getting-started) component. To use it, run this command:
 
@@ -15,7 +15,7 @@ bower install -D https://github.com/rafegoldberg/sass-map-deep-set.git#master
 
 Wahoo! Now the `ui.sass.utils` repo lives in your project's `bower_comoponents` directory.
 
-### Import
+#### Import
 
 Once you've got the repo installed, the next step is to include the main partial in your Sass project:
 

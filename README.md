@@ -54,7 +54,7 @@ $ui-conf-variable-ref: Ui-add(name,(
 
 > **Note**: in the above examples the return value of the `Ui-add()` call is assigned to variable. Since the method returns the passed object, the refrence variable will be identical to the new config object. Since Sass only permits function calls from the right-hand side of a assignment variable or property assignment statement
 
-###### Real World Example
+##### Real World Example
 
 Here's one real-world example of using the `Ui()` and `Ui-add()` methods to set up a [modular-scale sass plugin](https://github.com/modularscale/modularscale-sass):
 

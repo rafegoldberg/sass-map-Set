@@ -54,10 +54,10 @@ $ui-conf-variable-ref: Ui-add(name,(
 
 ##### Use Case
 
-Here's one real-world example of using the `Ui()` and `Ui-add()` methods to set up a [modular-scale sass plugin](https://github.com/modularscale/modularscale-sass):
+Here's a real-world example of using the `Ui()` and `Ui-add()` methods to set up the [modular-scale sass plugin](https://github.com/modularscale/modularscale-sass):
 
 ```sass
-//-file-> ./sass/conf/_scale.scss
+//-file-> ./sass/core/_scale.scss
 $ds-scale: Ui-add(scale,(
   base: 1em,
   ratio: (1.5,1.25)

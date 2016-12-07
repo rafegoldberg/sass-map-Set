@@ -52,6 +52,8 @@ $ui-conf-variable-ref: Ui-add(name,(
   ));
 ```
 
+> **Note**: You might've noticed that we're assigning the return value of the `Ui-add()` call to variable. This is because Sass only permits function calls from the right-hand side of an assignment statement. Though the variable will be identical to the passed map, you should always use the `Ds()` method– rather than the refrence variable –to access config values.
+
 #### Retrieving Config Values
 
 To get a config object or a sub-value, use the `Ui()` function:
@@ -79,8 +81,6 @@ $ds-scale: Ui-add(scale,(
 $ms-base: Ui(scale,base);
 $ms-ratio: Ui(scale,ratio);
 ```
-
-> **Note**: You might've noticed that we're assigning the return value of the `Ui-add()` call to variable. This is because Sass only permits function calls from the right-hand side of an assignment statement. Though the variable will be identical to the passed map, you should always use the `Ds()` method– rather than the refrence variable –to access config values.
 
 ### Roadmap
 

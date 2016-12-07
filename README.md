@@ -52,7 +52,18 @@ $ui-conf-variable-ref: Ui-add(name,(
   ));
 ```
 
-##### Use Case
+#### Retrieving Config Values
+
+To get a config object or a sub-value, use the `Ui()` function:
+
+```sass
+.example {
+  conf-obj: Ui(name);                 //=get a config object
+  deep-val: Ui(name,deep,nested,key); //=or pass keys to get deep conf vals
+}
+```
+
+#### Use Case
 
 Here's a real-world example of using the `Ui()` and `Ui-add()` methods to set up the [modular-scale sass plugin](https://github.com/modularscale/modularscale-sass):
 
@@ -70,19 +81,6 @@ $ms-ratio: Ui(scale,ratio);
 ```
 
 > **Note**: You might've noticed that we're assigning the return value of the `Ui-add()` call to variable. This is because Sass only permits function calls from the right-hand side of an assignment statement. Though the variable will be identical to the passed map, you should always use the `Ds()` method– rather than the refrence variable –to access config values.
-
-#### Retrieving Config Values
-
-To get a config object or a sub-value, use the `Ui()` function:
-
-```sass
-.example {
-  conf-obj: Ui(name);                 //=get a config object
-  deep-val: Ui(name,deep,nested,key); //=or pass keys to get deep conf vals
-}
-```
-
-
 
 ### Roadmap
 

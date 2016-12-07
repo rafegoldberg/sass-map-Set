@@ -39,7 +39,7 @@ Once you've imported the utils in to your project you're ready to get started! B
 
 #### Adding to the Config
 
-To add an object to your config, use the `Ds-add()` function as follows;
+To add an object to your config, use the `Ui-add()` function as follows;
 
 ```sass
 $ui-conf-variable-ref: Ui-add(name,(
@@ -52,7 +52,7 @@ $ui-conf-variable-ref: Ui-add(name,(
   ));
 ```
 
-> **Note**: You might've noticed that we're assigning the return value of the `Ui-add()` call to variable. This is because Sass only permits function calls from the right-hand side of an assignment statement. Though the variable will be identical to the passed map, you should always use the `Ds()` method– rather than the refrence variable –to access config values.
+> **Note**: You might've noticed that we're assigning the return value of the `Ui-add()` call to variable. This is because Sass only permits function calls from the right-hand side of an assignment statement. Though the variable will be identical to the passed map, you should always use the `Ui()` method– rather than the refrence variable –to access config values.
 
 #### Retrieving Config Values
 

@@ -1,12 +1,16 @@
 @import 'lib/map/_glob';
 
 
-$__UI__: ( version:0 );
+$__UI__: ( version:0 ) !global;
 
 @function Ui($keys...){
   @if map-deep-has-keys($__UI__,$keys...){
     @return map-deep-get($__UI__,$keys...);
-  }
+	  }
+  @else {
+  	@debug 'no match for #{$keys}';
+  	@return $__UI__;
+	  }
 }
 @function Ui-add($key,$obj){
   $__UI__: map-merge($__UI__,($key:$obj)) !global;

@@ -1,15 +1,18 @@
 {
   "name": "ui.sass.util",
-  "homepage": "https://github.com/rafegoldberg/sass-map-Set",
+  "homepage": "https://github.com/rafegoldberg/ui.sass.util",
   "authors": [
     "Rafe Goldberg <rafegoldberg@gmail.com>"
   ],
-  "description": "deep set @fn implementation for Sass maps",
+  "description": "a Sass utility for maintaining a global project configuration map.",
   "main": "_import.scss",
   "keywords": [
     "sass",
+    "ui",
     "map",
-    "set",
+    "setter",
+    "getter",
+    "extend",
     "deep"
   ],
   "license": "MIT",

@@ -1,0 +1,4 @@
+@function Ui-add($key,$obj){
+  $__UI__: map-merge($__UI__,($key:$obj)) !global;
+  @return $obj;
+}

@@ -1,0 +1,10 @@
+@function Ui($keys...){
+  @if map-deep-has-keys($__UI__,$keys...){
+    @return map-deep-get($__UI__,$keys...);
+	  }
+  @else {
+  	// @debug 'no match for #{$keys}';
+  	@return false;
+  	// @return $__UI__;
+	  }
+}

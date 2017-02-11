@@ -1,7 +1,6 @@
-$__UI__: () !global;
+$__UI__:() !default!global;
 
 @import 'lib/_glob';
-
-@import 'app/_ini';
-$ui-opt: UiSet(opt);
-@import 'app/_end';
+@import 'app/_glob';
+@import 'fnc/_glob';
+@import 'mix/_glob';

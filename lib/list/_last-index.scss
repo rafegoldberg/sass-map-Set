@@ -1,0 +1,14 @@
+/**
+ @auth hugogiraudel.com/2013/08/08/advanced-sass-list-functions/#removing-values-from-list
+ */
+@function last-index($list, $value) {
+	// starting at the end of the $list
+	// return first occurence of $value 
+  @for $i from length($list)*-1 through -1 {
+    @if nth($list, abs($i)) == $value {
+      @return abs($i);
+    }
+  }
+
+  @return null;
+}

@@ -1,10 +1,46 @@
 @function Ui($keys...){
-  @if map-deep-has-keys($__UI__,$keys...){
-    @return map-deep-get($__UI__,$keys...);
-	  }
-  @else {
-  	// @debug 'no match for #{$keys}';
-  	@return false;
-  	// @return $__UI__;
-	  }
-}
+	//defaults for map search  
+		$subj: $__UI__; //[map     ]  map to search in  (def:$_UI_)
+		$keys: $keys;   //[argslist]  key(s) to search
+		$kval: false;   //[any|bool]  result of lookup
+		$nth:  false;   //[null|num]  nth search-index  (optional )
+	//---
+	//if last $keys is numeric 
+		@if type-of(nth($keys,-1))==number {
+			$nth:  nth($keys,-1);               //store it to $list
+			$keys: remove($keys,nth($keys,-1)); //pop it off $keys
+			// @debug #{'{'$keys'}['$nth']'};
+			}
+	//---
+	//if $keys exist in UI map 
+	  @if map-deep-has-keys($subj,$keys...){
+			$subj: $__UI__;
+			$keys: $keys;
+			 //^these are already the defaults
+			 // but legibility never hurt anyone
+		  }
+	//else first $keys is map  
+		@elseif type-of(nth($keys,1))==map {
+			$subj: nth($keys,1);               //set $subj to first $keys entry
+			$keys: remove($keys,nth($keys,1)); //update $keys
+			}
+	//---
+	//if $keys exist in $subj  
+	  @if map-deep-has-keys($subj,$keys...){
+	    $kval: map-deep-get($subj,$keys...);// store the found value
+		  }
+	//else warn                
+		@else {
+			@warn 'no match for #{$keys}';
+			@return false;
+			}
+	//---
+	//=if $kval=list + $nth=num
+		@if type-of($kval)==list and type-of($nth)==number {
+			// return $kval entry at index $nth
+			@return nth($kval,$nth);
+			}
+	//---
+	//return results of lookup 
+		@return $kval;
+	}

@@ -1,0 +1,6 @@
+@function str-condense($str,$rpl:''){
+	//=note[remove or replace spaces in a string]
+	//@auth[rafegoldberg]
+  @if type-of($str) not string { $str:#{$str}; }
+  @return str-replace($str,' ',$rpl);
+  }

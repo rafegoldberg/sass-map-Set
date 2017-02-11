@@ -1,9 +1,9 @@
-$__UI__: (version:0) !global;
+$__UI__: () !global;
 
 @import 'lib/_glob';
 
 @import 'app/_ini';
-$ui-opt: Ui-add(opt,(
+$ui-opt: UiSet(opt,(
   reset: true
   ));
 @import 'app/_end';

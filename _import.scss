@@ -3,7 +3,5 @@ $__UI__: () !global;
 @import 'lib/_glob';
 
 @import 'app/_ini';
-$ui-opt: UiSet(opt,(
-  reset: true
-  ));
+$ui-opt: UiSet(opt);
 @import 'app/_end';

@@ -1,0 +1,6 @@
+@function configXtd($new,$keys...){
+	$old: config($keys...);
+	$xtd: map-deep-merge($old,$new);
+	$arg: append($keys,$xtd);
+	@return configSet($arg...);
+	}

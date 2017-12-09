@@ -1,0 +1,10 @@
+// @function UiSet($key,$obj){
+//   $CONFIG: map-merge($CONFIG,($key:$obj)) !global;
+//   @return $obj;
+// }
+@function configSet($keys.../*$obj*/){
+	// the last entry of keys ^ gets
+	// set & returned
+  $CONFIG: map-deep-set($CONFIG,$keys...) !global;
+  @return nth($keys,-1);
+}

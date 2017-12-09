@@ -1,0 +1,31 @@
+{
+  "name": "sass-config-map",
+  "version": "0.2.0",
+  "description": "\"Sass configuration map manager\"",
+  "main": "index.scss",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafegoldberg/ui.sass.util.git"
+  },
+  "keywords": [
+    "sass",
+    "ui",
+    "map",
+    "setter",
+    "getter",
+    "extend",
+    "deep"
+  ],
+  "author": "Rafe Goldberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafegoldberg/ui.sass.util/issues"
+  },
+  "homepage": "https://github.com/rafegoldberg/ui.sass.util#readme"
+}

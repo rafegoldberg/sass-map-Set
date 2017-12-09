@@ -1,11 +1,11 @@
 {
-  "name": "ui.sass.util",
+  "name": "sass-config-map",
   "homepage": "https://github.com/rafegoldberg/ui.sass.util",
   "authors": [
     "Rafe Goldberg <rafegoldberg@gmail.com>"
   ],
   "description": "a Sass utility for maintaining a global project configuration map.",
-  "main": "_import.scss",
+  "main": "index.scss",
   "keywords": [
     "sass",
     "ui",

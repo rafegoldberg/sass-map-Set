@@ -1,9 +1,9 @@
-@function Ui($keys...){
+@function config($keys...){
 	//defaults for map search  
-		$subj: $__UI__; //[map     ]  map to search in  (def:$_UI_)
+		$subj: $CONFIG; //[map     ]  map to search in 
 		$keys: $keys;   //[argslist]  key(s) to search
 		$kval: false;   //[any|bool]  result of lookup
-		$nth:  false;   //[null|num]  nth search-index  (optional )
+		$nth:  false;   //[null|num]  nth search-index  (optional)
 	//---
 	//if last $keys is numeric 
 		@if type-of(nth($keys,-1))==number {
@@ -12,9 +12,9 @@
 			// @debug #{'{'$keys'}['$nth']'};
 			}
 	//---
-	//if $keys exist in UI map 
+	//if $keys exist in config map 
 	  @if map-deep-has-keys($subj,$keys...){
-			$subj: $__UI__;
+			$subj: $CONFIG;
 			$keys: $keys;
 			 //^these are already the defaults
 			 // but legibility never hurt anyone

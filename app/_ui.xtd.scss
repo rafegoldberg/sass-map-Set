@@ -1,6 +1,0 @@
-@function UiXtd($new,$keys...){
-	$old: Ui($keys...);
-	$xtd: map-deep-merge($old,$new);
-	$arg: append($keys,$xtd);
-	@return UiSet($arg...);
-	}

@@ -1,0 +1,2296 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mo",
+				"model"
+			],
+			[
+				"ajax",
+				"ajaxOpts"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"base",
+				"base64_encode"
+			],
+			[
+				"transl",
+				"translateY()"
+			],
+			[
+				"fxs",
+				"flex-start"
+			],
+			[
+				"fng",
+				"func_get_args"
+			],
+			[
+				"wpp",
+				"wp_post"
+			],
+			[
+				"data",
+				"data-pid"
+			],
+			[
+				"inp",
+				"input-group"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"prev",
+				"preventDefault"
+			],
+			[
+				"val",
+				"val"
+			],
+			[
+				"appe",
+				"appendTo"
+			],
+			[
+				"post",
+				"postID"
+			],
+			[
+				"ccc",
+				"ccc-posts"
+			],
+			[
+				"fn",
+				"fun\tFunction"
+			],
+			[
+				"input",
+				"input-group-addon"
+			],
+			[
+				"por",
+				"PORT"
+			],
+			[
+				"f",
+				"f\tAnonymous Function"
+			],
+			[
+				"packageRe",
+				"packageRead"
+			],
+			[
+				"get",
+				"getPackageVersion"
+			],
+			[
+				"arrayk",
+				"array_key_exists"
+			],
+			[
+				"key",
+				"array_keys"
+			],
+			[
+				"pre",
+				"prettyprint"
+			],
+			[
+				"epop",
+				"ePopForce"
+			],
+			[
+				"csl",
+				"cslog\tconsole.log"
+			],
+			[
+				"ePo",
+				"ePopGenerateForm"
+			],
+			[
+				"PHP",
+				"PHPTask"
+			],
+			[
+				"task",
+				"TASK"
+			],
+			[
+				"bdbr",
+				"bdbrra\tborder-bottom-right-radius"
+			],
+			[
+				"tas",
+				"TASK"
+			],
+			[
+				"conf",
+				"Conf"
+			],
+			[
+				"ge",
+				"generator"
+			],
+			[
+				"promsee",
+				"promopop_seen"
+			],
+			[
+				"style",
+				"styleguide"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"dl",
+				"d-li\tdisplay: list-item;"
+			],
+			[
+				"t",
+				"task"
+			],
+			[
+				"req",
+				"req\tjs.require"
+			],
+			[
+				"H",
+				"Handlebars"
+			],
+			[
+				"auto",
+				"autoplay"
+			],
+			[
+				"host",
+				"HOST"
+			],
+			[
+				"ROOT",
+				"ROOTPATH"
+			],
+			[
+				"prod",
+				"prod_id"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"Key",
+				"keywords"
+			],
+			[
+				"gree",
+				"bgGreenBright"
+			],
+			[
+				"bran",
+				"BRANCH_NAME"
+			],
+			[
+				"ch",
+				"Chalk"
+			],
+			[
+				"bl",
+				"BRANCH_LIST"
+			],
+			[
+				"brl",
+				"BRANCH_LIST"
+			],
+			[
+				"BR",
+				"BRANCH_STORE"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"col",
+				"CollectionView"
+			],
+			[
+				"mod",
+				"model"
+			],
+			[
+				"reque",
+				"_REQUEST"
+			],
+			[
+				"un",
+				"underscore"
+			],
+			[
+				"vie",
+				"CollectionView"
+			],
+			[
+				"prodi",
+				"prod_image_variations"
+			],
+			[
+				"ali",
+				"aliasify"
+			],
+			[
+				"border-bo",
+				"border-bottom-width"
+			],
+			[
+				"swiper",
+				"swiper-container"
+			],
+			[
+				"gal",
+				"Gallery"
+			],
+			[
+				"chi",
+				"childViews"
+			],
+			[
+				"templ",
+				"templates"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"templat",
+				"template"
+			],
+			[
+				"tem",
+				"templates"
+			],
+			[
+				"replace",
+				"replaceElement"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"pdpx",
+				"PDPXS"
+			],
+			[
+				"Hea",
+				"header"
+			],
+			[
+				"sw",
+				"swypr"
+			],
+			[
+				"th",
+				"this\t$(this)"
+			],
+			[
+				"add",
+				"addPath"
+			],
+			[
+				"Req",
+				"_REQUEST"
+			],
+			[
+				"Cha",
+				"Chalk"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"status",
+				"statusLog"
+			],
+			[
+				"cha",
+				"chalk"
+			],
+			[
+				"setup",
+				"SetupTask"
+			],
+			[
+				"chk",
+				"Chalk"
+			],
+			[
+				"ve",
+				"Vendor"
+			],
+			[
+				"RE",
+				"return"
+			],
+			[
+				"Ds",
+				"DsUiData"
+			],
+			[
+				"Chl",
+				"Chlk"
+			],
+			[
+				"Syc",
+				"SyncPullTask"
+			],
+			[
+				"produc",
+				"productHeader"
+			],
+			[
+				"ppmk",
+				"PrepMarkup"
+			],
+			[
+				"att",
+				"attr\t.attr() - single"
+			],
+			[
+				"hd",
+				"Header"
+			],
+			[
+				"vw",
+				"Views"
+			],
+			[
+				"prep",
+				"prepMarkup"
+			],
+			[
+				"view",
+				"views"
+			],
+			[
+				"ds",
+				"DsUi"
+			],
+			[
+				"Build",
+				"BuildTask"
+			],
+			[
+				"chalk",
+				"Chalk"
+			],
+			[
+				"bum",
+				"BumpTask"
+			],
+			[
+				"stt",
+				"SetupTask"
+			],
+			[
+				"dsp",
+				"description"
+			],
+			[
+				"push",
+				"PushGitTask"
+			],
+			[
+				"def",
+				"DefaultTask"
+			],
+			[
+				"rep",
+				"replace"
+			],
+			[
+				"stat",
+				"statusLog"
+			],
+			[
+				"comm",
+				"commitAddPath"
+			],
+			[
+				"produ",
+				"product_path"
+			],
+			[
+				"product",
+				"Product"
+			],
+			[
+				"brand",
+				"brand_id"
+			],
+			[
+				"flex-",
+				"flex-start"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"bm",
+				"bump"
+			],
+			[
+				"User",
+				"UserJSON"
+			],
+			[
+				"u",
+				"username"
+			],
+			[
+				"or",
+				"orig"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"75e",
+				"75em"
+			],
+			[
+				"v",
+				"views"
+			],
+			[
+				"bw",
+				"BwsfyConf"
+			],
+			[
+				"d",
+				"deploy"
+			],
+			[
+				"git",
+				"gitCommit"
+			],
+			[
+				"arg",
+				"ARG"
+			],
+			[
+				"attr",
+				"attribute"
+			],
+			[
+				"handle",
+				"handleError"
+			],
+			[
+				"outer",
+				"outerHeight\t.outerHeight()"
+			],
+			[
+				"collapse",
+				"collapseOne"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_import.scss",
+			"settings":
+			{
+				"buffer_size": 112,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "@import \"gfont\";",
+			"file": "fnc/__glob.scss",
+			"file_size": 16,
+			"file_write_time": 131324232720000000,
+			"settings":
+			{
+				"buffer_size": 16,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pjv",
+				"Project: Save As"
+			],
+			[
+				"cloo",
+				"File: Close Others"
+			],
+			[
+				"pj",
+				"Project: Edit"
+			],
+			[
+				"mdv",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"dele",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"Set Syntax: mdx",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"mdx",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"ndrc",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"pmq",
+				"Permute Lines: Unique"
+			],
+			[
+				"nrc",
+				"File: New File Relative to Current View"
+			],
+			[
+				"fre",
+				"File: Rename"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"pje",
+				"Project: Edit"
+			],
+			[
+				"frev",
+				"File: Reveal"
+			],
+			[
+				"fdel",
+				"File: Delete"
+			],
+			[
+				"syjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"nrr",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"Package Control: v",
+				"Package Control: Remove Package"
+			],
+			[
+				"pki",
+				"Package Control: Install Package"
+			],
+			[
+				"stat",
+				"View: Toggle Status Bar"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"tgt",
+				"View: Toggle Tabs"
+			],
+			[
+				"tgst",
+				"View: Toggle Status Bar"
+			],
+			[
+				"tgta",
+				"View: Toggle Tabs"
+			],
+			[
+				"Set Syntax: js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Set Syntax: ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"pke",
+				"Package Control: Enable Package"
+			],
+			[
+				"fcp",
+				"File: Copy Path"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Set Syntax: sc",
+				"Set Syntax: SCSS"
+			],
+			[
+				"Set Syntax: cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"ndc",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"fcn",
+				"File: Copy Name"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"fde",
+				"File: Delete"
+			],
+			[
+				"n",
+				"File: New File Relative to Current View"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Set Syntax: e",
+				"Set Syntax: Ecmascript"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: rp",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Channel"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"p",
+				"Project: Edit"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"ndj",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"Set Syntax: hb",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"gitig",
+				"Set Syntax: Git Ignore"
+			],
+			[
+				"fc",
+				"File: Copy Name"
+			],
+			[
+				"nfdj",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"rev",
+				"File: Reveal"
+			],
+			[
+				"Set Syntax: hbs",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"Set Syntax: scs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"Set Syntax: css",
+				"Set Syntax: CSS"
+			],
+			[
+				"cla",
+				"File: Close All"
+			],
+			[
+				"Set Syntax: jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"clr",
+				"File: Close To The Right"
+			],
+			[
+				"fdu",
+				"File: Duplicate"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"Set Syntax: php",
+				"Set Syntax: PHP"
+			],
+			[
+				"Set Syntax: htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"yso",
+				"Set Syntax: JSON"
+			],
+			[
+				"cl",
+				"TabsExtra: Close Tabs"
+			],
+			[
+				"fv",
+				"File: Move"
+			],
+			[
+				"Set Syntax: git",
+				"Set Syntax: Git"
+			],
+			[
+				"nfr",
+				"File: New File Relative to Current View"
+			],
+			[
+				"nfp",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"nfd",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"bpk",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Set Syntax: yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"Set Syntax: bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"pkc:",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"mkdv",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pkd",
+				"Package Control: Disable Package"
+			],
+			[
+				"pkl",
+				"Package Control: List Packages"
+			],
+			[
+				"mgp",
+				"Preset Command: Manage Presets"
+			],
+			[
+				"fmv",
+				"File: Move"
+			],
+			[
+				"Set Syntax: json",
+				"Set Syntax: JSON"
+			],
+			[
+				"syspec",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"fren",
+				"File: Rename"
+			],
+			[
+				"premg",
+				"Preset Command: Manage Presets"
+			],
+			[
+				"clrr",
+				"Package Control: Remove Repository"
+			],
+			[
+				"nr",
+				"File: New File Relative to Current View"
+			],
+			[
+				"syntax spec",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"Set Syntax: md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Set Syntax: h",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"fd",
+				"File: Delete"
+			],
+			[
+				"gtt-",
+				"Snippet: grunt-template-string"
+			],
+			[
+				"f",
+				"File: Move"
+			],
+			[
+				"Set Syntax: ",
+				"Set Syntax: OCamllex"
+			],
+			[
+				"Set Syntax: ya",
+				"Set Syntax: YAML"
+			],
+			[
+				"Set Syntax: rc",
+				"Set Syntax: R Console"
+			],
+			[
+				"syntax bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"Set Syntax:  ",
+				"Set Syntax: SCSS"
+			],
+			[
+				"prem",
+				"Preset Command: Manage Presets"
+			],
+			[
+				"synspec",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"fdup",
+				"File: Duplicate"
+			],
+			[
+				"dle",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"clooi",
+				"Snippet: outline-color:invert"
+			],
+			[
+				"mdh",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"so",
+				"Sort Lines"
+			],
+			[
+				"syntaxspec",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"trimt",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"eh",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"pq",
+				"Permute Lines: Unique"
+			],
+			[
+				"Set Syntax: jjs",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"tofsb",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"tgosb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sorrt",
+				"Set Syntax: Java Properties"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"ddele",
+				"Code Folding: Select Folded"
+			],
+			[
+				"pm",
+				"Permute Lines: Unique"
+			],
+			[
+				"s",
+				"Sort Lines"
+			],
+			[
+				"mdvh",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"nrp",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"mgpre",
+				"Preset Command: Manage Presets"
+			],
+			[
+				"tab",
+				"TabsExtra: Sort Tabs"
+			],
+			[
+				"trim",
+				"Trimmer: Trim leading AND trailing whitespace."
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"pken",
+				"Package Control: Enable Package"
+			],
+			[
+				"fnr",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"mdvhtm",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"mkdpreview",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"Set Syntax: mx",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"Set Syntax: mkx",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"clrre",
+				"Package Control: Remove Repository"
+			]
+		],
+		"width": 592.0
+	},
+	"console":
+	{
+		"height": 223.0,
+		"history":
+		[
+			"y.type",
+			"typeof y;",
+			"typeof y",
+			"y",
+			"y=window.project_data()['folders'][3]['file_exclude_patterns'];",
+			"window.project_data()['folders'][3]['file_exclude_patterns'][2].remove()",
+			"window.project_data()['folders'][3]['file_exclude_patterns'][2].delete()",
+			"remove( window.project_data()['folders'][3]['file_exclude_patterns'][2] )",
+			"delete( window.project_data()['folders'][3]['file_exclude_patterns'][2] )",
+			"delete window.project_data()['folders'][3]['file_exclude_patterns'][2]",
+			"window.project_data()['folders'][3]['file_exclude_patterns'][2]",
+			"window.project_data()['folders'][3]['file_exclude_patterns'][3]",
+			"window.project_data()['folders'][3]['file_exclude_patterns']",
+			"window.project_data()['folders'][3]",
+			"window.project_data()['folders']",
+			"window.project_data()[folders]",
+			"(window.project_data()).folders[3]",
+			"window.project_data().folders[3]",
+			"window.project_data()",
+			"window.project_data",
+			"window.get_project_data",
+			"window.get_project_data()",
+			"window.folders()",
+			"window.project_file_name()",
+			"project_file_name()",
+			"project_file_name",
+			"window.id",
+			"window",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"clear",
+			"console.clear()",
+			"clear()",
+			"clear",
+			"cd ~/test-dsui",
+			"yo dsui",
+			"sublime.Window.id('')",
+			"sublime.Window.id(1)",
+			"sublime.Window.id(this)",
+			"sublime.Window.id()",
+			"Window.is_minimap_visible()",
+			"sublime.Window.is_minimap_visible()",
+			"sublime.packages_path()",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"clear()",
+			"clear",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": true
+	},
+	"expanded_folders":
+	[
+		"/Users/z00221y/Desktop/ui.sass.util",
+		"/Users/z00221y/Desktop/ui.sass.util/lib"
+	],
+	"file_history":
+	[
+		"/Users/z00221y/Desktop/DsUi App/core/styles/main.scss",
+		"/Users/z00221y/Desktop/DsUi App/core/styles/_methods.scss",
+		"/Users/z00221y/Desktop/DsUi App/src/index.js",
+		"/Users/z00221y/Desktop/DsUi App/app/model/Page.js",
+		"/Users/z00221y/Desktop/DsUi App/src/example2.js",
+		"/Users/z00221y/Desktop/DsUi App/Project.sublime-project",
+		"/Users/z00221y/Desktop/DsUi App/app/model/Cart.js",
+		"/Users/z00221y/Desktop/DsUi App/app/model/Product.js",
+		"/Users/z00221y/Desktop/DsUi App/core/styles/_modules.scss",
+		"/private/etc/hosts",
+		"/Users/z00221y/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/z00221y/Desktop/DsUi App/php/docs/example/index.php",
+		"/Users/z00221y/Desktop/DsUi App/app/collection/Cart.js",
+		"/Users/z00221y/Desktop/DsUi App/.eslintrc.json",
+		"/Users/z00221y/Desktop/DsUi App/app/components/widget/index.js",
+		"/Users/z00221y/Desktop/DsUi App/app/collection/Brand.js",
+		"/Users/z00221y/Desktop/DsUi App/app/model/Brand.js",
+		"/Users/z00221y/Desktop/DsUi App/app/components/widget/widget.hbs",
+		"/Users/z00221y/Desktop/DsUi App/app/view/Product.js",
+		"/private/var/folders/sr/d48n8z3s5px7w3p54n4qdh9j71mj2n/T/7bb9deb1-b357-4b6f-9c02-b8db2856bea6/dermstore/include/public/content/_sandbox.php",
+		"/Users/z00221y/Desktop/DsUi App/src/example.js",
+		"/Users/z00221y/Desktop/DsUi App/package.json",
+		"/private/var/folders/sr/d48n8z3s5px7w3p54n4qdh9j71mj2n/T/7bb9deb1-b357-4b6f-9c02-b8db2856bea6/dermstore/include/public/navigation/footer.php",
+		"/Users/z00221y/.hyper.js",
+		"/Users/z00221y/Desktop/DsUi App/gulp/sync.js",
+		"/Users/z00221y/Desktop/DsUi App/gulp/status.js",
+		"/Users/z00221y/Desktop/DsUi App/gulp/setup.js",
+		"/Users/z00221y/Desktop/DsUi App/gulp/serve.js",
+		"/Users/z00221y/Desktop/DsUi App/gulp/save.js",
+		"/Users/z00221y/Desktop/DsUi App/gulp/release.js",
+		"/Users/z00221y/Desktop/DsUi App/gulp/push.js",
+		"/Users/z00221y/Desktop/DsUi App/gulp/php.js",
+		"/Users/z00221y/Desktop/DsUi App/gulp/docs.js",
+		"/Users/z00221y/Desktop/DsUi App/gulp/default.js",
+		"/Users/z00221y/Desktop/DsUi App/gulp/build.js",
+		"/Users/z00221y/Desktop/DsUi App/gulp/branch.js",
+		"/Users/z00221y/Desktop/DsUi App/gulp/add.js",
+		"/Users/z00221y/Desktop/DsUi App/gulp/util/logr.js",
+		"/Users/z00221y/Desktop/DsUi App/app/model/e: true,\n      },\n",
+		"/Users/z00221y/Desktop/DsUi App/LINTEST.js",
+		"/private/var/folders/sr/d48n8z3s5px7w3p54n4qdh9j71mj2n/T/3169b1ca-dce2-4cc5-8967-6d0e5c777569/dermstore/include/public/content/_sandbox.php",
+		"/private/var/folders/sr/d48n8z3s5px7w3p54n4qdh9j71mj2n/T/3169b1ca-dce2-4cc5-8967-6d0e5c777569/dermstore/docs/ajax/_sandbox.php",
+		"/Users/z00221y/Desktop/DsUi App/app/components/widget/widget.scss",
+		"/private/var/folders/sr/d48n8z3s5px7w3p54n4qdh9j71mj2n/T/7bb9deb1-b357-4b6f-9c02-b8db2856bea6/dermstore/docs/product.php",
+		"/Users/z00221y/Desktop/DsUi App/core/Vendor.js",
+		"/Users/z00221y/Desktop/DsUi App/app/components/widget/widget.json",
+		"/Users/z00221y/Desktop/DsUi App/src/test.js",
+		"/Users/z00221y/Desktop/DsUi App/app/components/example/index.js",
+		"/Users/z00221y/Desktop/DsUi App/app/components/example/example.scss",
+		"/Users/z00221y/Desktop/DsUi App/app/components/example/example.hbs",
+		"/Users/z00221y/Desktop/DsUi App/php/docs/index.php",
+		"/private/var/folders/sr/d48n8z3s5px7w3p54n4qdh9j71mj2n/T/7bb9deb1-b357-4b6f-9c02-b8db2856bea6/dermstore/docs/js/cart_functions.js",
+		"/Users/z00221y/Desktop/product.php",
+		"/Users/z00221y/Desktop/DsUi App/php/private/intro.php",
+		"/Users/z00221y/Desktop/DsUi App/php/private/err.php",
+		"/Users/z00221y/Desktop/DsUi App/php/public/dsui.php",
+		"/Users/z00221y/Desktop/DsUi App/core/styles/base/elements/paragraph.scss",
+		"/Users/z00221y/Desktop/DsUi App/core/styles/base/document.scss",
+		"/private/var/folders/sr/d48n8z3s5px7w3p54n4qdh9j71mj2n/T/7bb9deb1-b357-4b6f-9c02-b8db2856bea6/dermstore/include/public/silhouette/view.account.php",
+		"/private/var/folders/sr/d48n8z3s5px7w3p54n4qdh9j71mj2n/T/7bb9deb1-b357-4b6f-9c02-b8db2856bea6/dermstore/include/public/content/faqs.php",
+		"/private/var/folders/sr/d48n8z3s5px7w3p54n4qdh9j71mj2n/T/7bb9deb1-b357-4b6f-9c02-b8db2856bea6/dermstore/docs/silhouette.php",
+		"/Users/z00221y/Documents/Stylebot/github.css",
+		"/Users/z00221y/Desktop/DsUi App/php/router.php",
+		"/Users/z00221y/Desktop/DsUi App/docs/kss-builder/package.json",
+		"/Users/z00221y/Desktop/DsUi App/php/docs/example/test/index.php",
+		"/Users/z00221y/Desktop/DsUi App/php/public/header.php",
+		"/Users/z00221y/Desktop/DsUi App/php/public/footer.php",
+		"/Users/z00221y/Desktop/DsUi App/php/index.php",
+		"/private/var/folders/sr/d48n8z3s5px7w3p54n4qdh9j71mj2n/T/7bb9deb1-b357-4b6f-9c02-b8db2856bea6/dermstore/docs/index.php",
+		"/private/var/folders/sr/d48n8z3s5px7w3p54n4qdh9j71mj2n/T/3169b1ca-dce2-4cc5-8967-6d0e5c777569/dermstore/admin/content/attribute_content_edit.php",
+		"/Users/z00221y/Desktop/DsUi App/.gitignore",
+		"/Users/z00221y/Desktop/DsUi App/docs/kss-builder/.gitignore",
+		"/Users/z00221y/Desktop/DsUi App/gulpfile.js",
+		"/Users/z00221y/Desktop/DsUi App/app/components/example/example.json",
+		"/Users/z00221y/Desktop/DsUi App/php/private/btm.php",
+		"/Users/z00221y/Desktop/DsUi App/php/public/dsui.js.php",
+		"/Users/z00221y/Desktop/DsUi App/php/public",
+		"/Users/z00221y/Desktop/DsUi App/.gulp.json",
+		"/Users/z00221y/Desktop/DsUi App/php/include/head.php",
+		"/Users/z00221y/Desktop/DsUi App/php/include/foot.php",
+		"/Users/z00221y/Desktop/DsUi App/php/include/_top.php",
+		"/Users/z00221y/Desktop/DsUi App/php/include/_btm.php",
+		"/Users/z00221y/Desktop/DsUi App/php/include/header.php",
+		"/Users/z00221y/Desktop/DsUi App/docs/index.html",
+		"/Users/z00221y/Desktop/DsUi App/core/styles/_vendor.scss",
+		"/Users/z00221y/Desktop/DsUi App/php/index.js",
+		"/Users/z00221y/Desktop/DsUi App/core/styles/_base.scss",
+		"/Users/z00221y/Desktop/DsUi App/php/package.json",
+		"/Users/z00221y/Desktop/DsUi - Argumentation/Examples/1 - the simplest widget/style.css",
+		"/Users/z00221y/Desktop/DsUi - Argumentation/Examples/1 - the simplest widget/logic.js",
+		"/Users/z00221y/Desktop/DsUi - Argumentation/Examples/1 - the simplest widget/markup.html",
+		"/Users/z00221y/Desktop/DsUi - Argumentation/Examples/1 - the simplest widget/Simple-Widget.sublime-project",
+		"/Users/z00221y/Desktop/DsUi - Argumentation/Examples/1 - the simplest widget/DSUI1-Simple-Widget.sublime-project",
+		"/Users/z00221y/Desktop/DsUi.KSS/package.json",
+		"/Users/z00221y/Desktop/DsUi App/docs/TEST.json",
+		"/Users/z00221y/Desktop/DsUi.KSS/.gitignore",
+		"/Users/z00221y/Desktop/DsUi App/docs/section-settings.html",
+		"/Users/z00221y/Desktop/DsUi App/core/styleguide/package.json",
+		"/Users/z00221y/Desktop/DsUi App/.bin/app-components",
+		"/Users/z00221y/Desktop/DsUi App/app/components/panel/panel.hbs",
+		"/Users/z00221y/Desktop/DsUi App/php",
+		"/Users/z00221y/Desktop/DsUi App/.env",
+		"/Users/z00221y/Desktop/DsUi App/.bin/PHP Server Root",
+		"/private/var/folders/sr/d48n8z3s5px7w3p54n4qdh9j71mj2n/T/3169b1ca-dce2-4cc5-8967-6d0e5c777569/dermstore/docs/profile.php",
+		"/Users/z00221y/Desktop/DsUi App/core/styleguide/index.hbs",
+		"/Users/z00221y/Desktop/DsUi App/app/components/panel/panel.scss",
+		"/Users/z00221y/Desktop/DsUi App/core/styles/theme/colors.json",
+		"/private/var/folders/sr/d48n8z3s5px7w3p54n4qdh9j71mj2n/T/7bb9deb1-b357-4b6f-9c02-b8db2856bea6/dermstore/include/public/widgets/dl_update_test.php",
+		"/private/var/folders/sr/d48n8z3s5px7w3p54n4qdh9j71mj2n/T/7bb9deb1-b357-4b6f-9c02-b8db2856bea6/dermstore/include/public/navigation/head.php",
+		"/Users/z00221y/Desktop/DsUi App/core/styles/_theme.scss",
+		"/Users/z00221y/Desktop/DsUi App/app/components/list/list.scss",
+		"/Users/z00221y/Desktop/DsUi App/core/script/hbs/helpers/KSS.js",
+		"/Users/z00221y/Desktop/DsUi App/core/styleguide/kss-assets/kss-custom.css",
+		"/Users/z00221y/Desktop/DsUi App/core/styleguide/kss-assets/kss.scss",
+		"/Users/z00221y/Desktop/DsUi App/core/styleguide/kss-assets/WARNING.txt",
+		"/Users/z00221y/Desktop/DsUi App/app/components/button/button.scss",
+		"/Users/z00221y/Desktop/DsUi App/.bin/issues/release-workflow.md",
+		"/Users/z00221y/Desktop/DsUi App/app/components/list/list.hbs",
+		"/Users/z00221y/Desktop/DsUi App/gulp/util/packageGet.js",
+		"/Users/z00221y/Desktop/DsUi App/gulp/util/packageRead.js",
+		"/Users/z00221y/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/z00221y/Desktop/DsUi App/docs/index.php",
+		"/Users/z00221y/Desktop/DsUi App/.git/COMMIT_EDITMSG",
+		"/Users/z00221y/Desktop/DsUi App/docs/router.php",
+		"/Users/z00221y/Desktop/DsUi App/core/styles/guide.md",
+		"/Users/z00221y/Desktop/DsUi App/core/styles/_config.scss",
+		"/Users/z00221y/Desktop/DsUi App/assets/styleguide.css",
+		"/private/var/folders/sr/d48n8z3s5px7w3p54n4qdh9j71mj2n/T/7bb9deb1-b357-4b6f-9c02-b8db2856bea6/dermstore/include/public/widgets/modal_promotion.php"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 200.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_import.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bs_sintax": "scss",
+							"buffer_scroll_name": "cca88652",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.sublime-syntax",
+							"tabs_extra_last_activated": 1512835792.41,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "fnc/__glob.scss",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 16,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bs_sintax": "scss",
+							"buffer_scroll_name": "6ed30035",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.sublime-syntax",
+							"tabs_extra_last_activated": 1512835887.99,
+							"tabs_extra_last_activated_sheet_index": 1,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 432.0
+	},
+	"output.markdown":
+	{
+		"height": 152.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 122.0
+	},
+	"pinned_build_system": "",
+	"project": "Project.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"es",
+				".eslintrc.json"
+			],
+			[
+				"esl",
+				".eslintrc.json"
+			],
+			[
+				"logr",
+				"gulp/util/logr.js"
+			],
+			[
+				"sync",
+				"gulp/sync.js"
+			],
+			[
+				"stat",
+				"gulp/status.js"
+			],
+			[
+				"set",
+				"gulp/setup.js"
+			],
+			[
+				"serv",
+				"gulp/serve.js"
+			],
+			[
+				"save",
+				"gulp/save.js"
+			],
+			[
+				"rel",
+				"gulp/release.js"
+			],
+			[
+				"push",
+				"gulp/push.js"
+			],
+			[
+				"php",
+				"gulp/php.js"
+			],
+			[
+				"docs",
+				"gulp/docs.js"
+			],
+			[
+				"def",
+				"gulp/default.js"
+			],
+			[
+				"bui",
+				"gulp/build.js"
+			],
+			[
+				"branch",
+				"gulp/branch.js"
+			],
+			[
+				"ad",
+				"gulp/add.js"
+			],
+			[
+				"log",
+				"gulp/util/logr.js"
+			],
+			[
+				"modelprod",
+				"app/model/Product.js"
+			],
+			[
+				"ve",
+				"core/Vendor.js"
+			],
+			[
+				"err",
+				"DsUi/php/private/err.php"
+			],
+			[
+				"dsui",
+				"DsUi/php/public/dsui.php"
+			],
+			[
+				"mains",
+				"DsUi/core/styles/main.scss"
+			],
+			[
+				"giti",
+				" •   docs/kss-builder/.gitignore"
+			],
+			[
+				"gdoc",
+				"DsUi/gulp/docs.js"
+			],
+			[
+				"gphp",
+				"DsUi/gulp/php.js"
+			],
+			[
+				"exbs",
+				"DsUi/app/components/example/example.hbs"
+			],
+			[
+				"inp",
+				"DsUi/php/index.php"
+			],
+			[
+				"src/t",
+				"DsUi/src/test.js"
+			],
+			[
+				"g/",
+				"DsUi/gulp/docs.js"
+			],
+			[
+				"g/doc",
+				"DsUi/gulp/docs.js"
+			],
+			[
+				"src/",
+				"DsUi/src/test.js"
+			],
+			[
+				"doc",
+				"DsUi/core/styles/base/document.scss"
+			],
+			[
+				"btm",
+				"DsUi/php/include/_btm.php"
+			],
+			[
+				"foot",
+				"DsUi/php/include/foot.php"
+			],
+			[
+				"docsc",
+				"DsUi/core/styles/base/document.scss"
+			],
+			[
+				"ind",
+				"DsUi/docs/index.html"
+			],
+			[
+				"top",
+				"DsUi/php/include/_top.php"
+			],
+			[
+				"phpbt",
+				"DsUi/php/include/_btm.php"
+			],
+			[
+				"docu",
+				"DsUi/core/styles/base/document.scss"
+			],
+			[
+				"g/php",
+				"DsUi/gulp/php.js"
+			],
+			[
+				"rout",
+				"DsUi/php/router.php"
+			],
+			[
+				"styl",
+				"style.css"
+			],
+			[
+				"mark",
+				"markup.html"
+			],
+			[
+				"",
+				"style.css"
+			],
+			[
+				"logic",
+				"logic.js"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"g/d",
+				"DsUi/gulp/docs.js"
+			],
+			[
+				"pack",
+				"DsUi/package.json"
+			],
+			[
+				"c/style",
+				"DsUi/core/styles/main.scss"
+			],
+			[
+				"pak",
+				"DsUi/package.json"
+			],
+			[
+				"gitig",
+				"DsUi/.gitignore"
+			],
+			[
+				"panel",
+				" •   app/components/panel/panel.scss"
+			],
+			[
+				"style",
+				" •   core/styleguide/index.hbs"
+			],
+			[
+				"x",
+				" •   core/styleguide/index.hbs"
+			],
+			[
+				"lscss",
+				" •   app/components/list/list.scss"
+			],
+			[
+				"ksscu",
+				" •   core/styleguide/kss-assets/kss-custom.css"
+			],
+			[
+				"panelas",
+				" •   app/components/panel/panel.scss"
+			],
+			[
+				"ksscus",
+				" •   core/styleguide/kss-assets/kss-custom.css"
+			],
+			[
+				"shbs",
+				" •   core/styleguide/index.hbs"
+			],
+			[
+				"sind",
+				" •   core/styleguide/index.hbs"
+			],
+			[
+				"listsc",
+				" •   app/components/list/list.scss"
+			],
+			[
+				"pk",
+				"DsUi/package.json"
+			],
+			[
+				"paneh",
+				" •   app/components/panel/panel.hbs"
+			],
+			[
+				"mscs",
+				" •   core/styles/main.scss"
+			],
+			[
+				"srct",
+				" •   src/test.js"
+			],
+			[
+				"pscss",
+				" •   app/components/panel/panel.scss"
+			],
+			[
+				"phbs",
+				" •   app/components/panel/panel.hbs"
+			],
+			[
+				"ksscust",
+				" •   core/styleguide/kss-assets/kss-custom.css"
+			],
+			[
+				"panelh",
+				" •   app/components/panel/panel.hbs"
+			],
+			[
+				"guide/hbs",
+				" •   core/styleguide/index.hbs"
+			],
+			[
+				"g/do",
+				" •   gulp/docs.js"
+			],
+			[
+				"gulp/php",
+				" •   gulp/php.js"
+			],
+			[
+				"g/docs",
+				" •   gulp/docs.js"
+			],
+			[
+				"panelsc",
+				" •   app/components/panel/panel.scss"
+			],
+			[
+				"lsc",
+				" •   app/components/list/list.scss"
+			],
+			[
+				"lih",
+				" •   app/components/list/list.hbs"
+			],
+			[
+				"style/x",
+				" •   core/styleguide/index.hbs"
+			],
+			[
+				"lhbs",
+				" •   app/components/list/list.hbs"
+			],
+			[
+				"g/bui",
+				" •   gulp/build.js"
+			],
+			[
+				"color",
+				" •   core/styles/theme/colors.json"
+			],
+			[
+				"theme/color",
+				" •   core/styles/theme/colors.json"
+			],
+			[
+				"style/theme",
+				" •   core/styles/_theme.scss"
+			],
+			[
+				"build",
+				" •   gulp/build.js"
+			],
+			[
+				"cnf",
+				"DsUi/config.js"
+			],
+			[
+				"assets",
+				"DsUi/assets/styleguide.css"
+			],
+			[
+				"ass/",
+				"DsUi/assets/styleguide.css"
+			],
+			[
+				"g/sty",
+				" •   gulp/styleguide.js"
+			],
+			[
+				"sxs",
+				" •   core/styleguide/index.hbs"
+			],
+			[
+				"s/ix",
+				" •   core/styleguide/index.hbs"
+			],
+			[
+				"assets/",
+				"DsUi/assets/styleguide.css"
+			],
+			[
+				"sxhb",
+				" •   core/styleguide/index.hbs"
+			],
+			[
+				"ls/lsj",
+				" •   app/components/list/list.json"
+			],
+			[
+				"conf",
+				"DsUi/config.js"
+			],
+			[
+				"gul",
+				"DsUi/gulpfile.js"
+			],
+			[
+				"ass/st",
+				"DsUi/assets/styleguide.css"
+			],
+			[
+				"s/md",
+				" •   core/styles/guide.md"
+			],
+			[
+				"xhb",
+				" •   core/styleguide/index.hbs"
+			],
+			[
+				"ass/sty",
+				"DsUi/assets/styleguide.css"
+			],
+			[
+				"gmd",
+				" •   core/styles/guide.md"
+			],
+			[
+				"sgcs",
+				"DsUi/assets/styleguide.css"
+			],
+			[
+				"core/ix",
+				" •   core/styleguide/index.hbs"
+			],
+			[
+				"ass/sg",
+				"DsUi/assets/styleguide.css"
+			],
+			[
+				"te",
+				" •   src/test.js"
+			],
+			[
+				"pane",
+				" •   app/components/panel/panel.scss"
+			],
+			[
+				"as/",
+				"DsUi/assets/styleguide.css"
+			],
+			[
+				"sg/xbs",
+				" •   core/styleguide/index.hbs"
+			],
+			[
+				"as/sty",
+				"DsUi/assets/styleguide.css"
+			],
+			[
+				"s/guide",
+				" •   core/styles/guide.md"
+			],
+			[
+				"pscs",
+				" •   app/components/panel/panel.scss"
+			],
+			[
+				"sgxhb",
+				" •   core/styleguide/index.hbs"
+			],
+			[
+				"idx",
+				"«–{  SANDBOX  }–»/index.php"
+			],
+			[
+				"st/xhb",
+				" •   core/styleguide/index.hbs"
+			],
+			[
+				"st/dxhb",
+				" •   core/styleguide/index.hbs"
+			],
+			[
+				"sgidx",
+				" •   core/styleguide/index.hbs"
+			],
+			[
+				"gsty",
+				" •   gulp/styleguide.js"
+			],
+			[
+				"test",
+				" •   src/test.js"
+			],
+			[
+				"buttonsty",
+				" •   app/components/button/style.scss"
+			],
+			[
+				"g/stg",
+				" •   gulp/styleguide.js"
+			],
+			[
+				"c/sty/gui",
+				" •   core/styles/guide.md"
+			],
+			[
+				"sandbox/rout",
+				"«sandbox»/router.php"
+			],
+			[
+				"pkg",
+				"DsUi/package.json"
+			],
+			[
+				"gfjs",
+				"DsUi/gulpfile.js"
+			],
+			[
+				".ser/h",
+				"DsUi/.serve/public/head.php"
+			],
+			[
+				"gulpp",
+				" •   gulp/php.js"
+			],
+			[
+				".serinde",
+				"DsUi/.serve/index.php"
+			],
+			[
+				"head",
+				"DsUi/.serve/public/head.php"
+			],
+			[
+				"gu",
+				"DsUi/gulpfile.js"
+			],
+			[
+				"confi",
+				"DsUi/config.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": ".edit",
+		"selected_items":
+		[
+			[
+				".edit",
+				"~/Library/Group Containers/G69SCX94XU.duck/Library/Application Support/duck/Volumes/14MV DS (VPN Mount)/.editor.sublime-workspace"
+			],
+			[
+				"",
+				"~/Documents/Dermstore/Work/3Cs/User Profile/Local Tools/CSC + Script Builder.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

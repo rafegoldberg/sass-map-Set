@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+      "file_exclude_patterns":[
+        ".DS_Store",
+        ".gitignore",
+        "*.sublime-*"
+        ],
+      "folder_exclude_patterns":[
+        ],
+      "name": "Sass Config Map",
+			"path": "."
+		}
+	]
+}

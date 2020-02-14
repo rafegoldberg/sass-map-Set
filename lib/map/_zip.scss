@@ -4,18 +4,18 @@
 /// @param {List} $values - Values for map
 /// @return {Map} Freshly created map
 /// @see http://sass-lang.com/documentation/Sass/Script/Functions.html#zip-instance_method
+
 @function map-zip($keys, $values) {
   $l-keys: length($keys);
   $l-values: length($values);
   $min: min($l-keys, $l-values);
   $map: ();
 
-  @if $l-keys != $l-values {
-    @warn "There are #{$l-keys} key(s) for #{$l-values} value(s) in the map for `map-zip`. "
-        + "Resulting map will only have #{$min} pairs.";
+  @if $l-keys!=$l-values {
+    @warn "There are #{$l-keys} key(s) for #{$l-values} value(s) in the map for `map-zip`. Resulting map will only have #{$min} pairs.";
   }
 
-  @if $min == 0 {
+  @if $min==0 {
     @return $map;
   }
 
